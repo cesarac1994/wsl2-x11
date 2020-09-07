@@ -10,3 +10,6 @@ https://xming.softonic.com.br/download
 DISPLAY=localhost:0.0 gnuplot
 
 Pronto, seu comando gráfico será exibido pelo Xming.
+
+
+Referência: https://www.youtube.com/watch?v=Eck2x50BEzE
